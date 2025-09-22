@@ -1,0 +1,6 @@
+string1
+string 2
+string3
+git
+string8
+string7
